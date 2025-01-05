@@ -11,8 +11,6 @@ This project develops a deep learning-based solution for early detection of diab
 6. [Usage](#usage)
 7. [Results](#results)
 8. [Hyperparameter Tuning Results](#hyperparameter-tuning-results)
-9. [Contributing](#contributing)
-10. [License](#license)
 
 ---
 
